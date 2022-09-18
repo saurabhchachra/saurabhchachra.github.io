@@ -1,2 +1,2 @@
 # saurabhchachra.github.io
-This repository was created as an assignment for INFO 202.
+This repository was created for a INFO 202 assignment.
