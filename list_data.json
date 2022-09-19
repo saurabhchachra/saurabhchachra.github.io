@@ -1,22 +1,19 @@
 {
-	"movies": [
+	"education": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"University": "University of California, Berkeley",
+			"Degree": "Master's in Information",
+			"Year": "2022 - 2024 (expected)"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"University": "University of California, Berkeley",
+			"Degree": "Post Baccalaureate Certificate in Psychology",
+			"Year": "2019 - 2021"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"University": "Kurukshetra University, Kurukshetra",
+			"Degree": "Bachelor in Business Administration",
+			"Year": "2010 - 2013"
 		}
 	]
 }
